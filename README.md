@@ -1,4 +1,4 @@
-# Bonjour, moi c’est Sébastien 👋
+# Bonjour, moi c’est Sébastien 
 
 Bienvenue sur mon profil GitHub !
 
