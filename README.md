@@ -1,4 +1,4 @@
-# Bonjour, moi c’est Sébastien 👋
+# Bonjour, moi c’est Sébastien 
 
 Bienvenue sur mon profil GitHub !
 
@@ -8,8 +8,8 @@ Bienvenue sur mon profil GitHub !
 - 💻 Je développe des applications web, des outils et des projets en **Go** et **JavaScript**.
 - 🔐 Je développe également mes compétences en **cybersécurité, réseaux et administration Linux**.
 - 🧠 J’aime comprendre le fonctionnement des systèmes, expérimenter et apprendre par la pratique.
-- 🚀 Je travaille sur des projets scolaires et personnels allant du développement web aux réseaux et à la cybersécurité.
-- 🎯 Mon objectif est de poursuivre ma progression en entreprise et de devenir développeur professionnel.
+-  Je travaille sur des projets scolaires et personnels allant du développement web aux réseaux et à la cybersécurité.
+-  Mon objectif est de poursuivre ma progression en entreprise et de devenir développeur professionnel.
 
 ## 💻 Langages
 
